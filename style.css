@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(168, 167, 167);
+    font: normal 15pt Times;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    width: 600px;
+    border-radius:2pc;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514)
+}
+
+select {
+    width: 200px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
